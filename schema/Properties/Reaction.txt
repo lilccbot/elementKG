@@ -1,0 +1,22 @@
+字段名	类型	单位	描述
+hasName	String	-	反应名称（如燃烧、水解、中和反应）
+hasReactionEquation	String	-	反应方程式（如 2H₂ + O₂ → 2H₂O）
+hasEnthalpyChange	Float	kJ/mol	焓变（ΔH，吸热为正，放热为负）
+hasEntropyChange	Float	J/(mol·K)	熵变（ΔS，系统混乱度的变化）
+hasGibbsFreeEnergy	Float	kJ/mol	吉布斯自由能变化（ΔG，ΔG < 0 表示反应自发）
+hasReactionRate	Float	mol/(L·s)	反应速率（单位时间内反应物或生成物浓度的变化）
+hasActivationEnergy	Float	kJ/mol	活化能（反应发生所需的最小能量）
+hasCatalyst	List of Strings	-	催化剂（如酶、金属催化剂、酸碱催化剂）
+hasReactionConditions	List of Strings	-	反应条件（如温度、压力、光照、溶剂等）
+hasTemperatureEffect	String	-	温度对反应的影响（如“升温加快反应速率”、“高温促进分解”）
+hasPressureEffect	String	-	压力对反应的影响（如“高压促进气体参与反应”）
+hasConcentrationEffect	String	-	浓度对反应的影响（如“高浓度反应物加快速率”）
+hasReversibility	Boolean/String	-	是否可逆（如“可逆反应”、“不可逆反应”）
+hasEquilibriumConstant	Float	-	平衡常数（K，描述反应达到平衡时的浓度关系）
+hasReactionMechanism	String	-	反应机理（如亲核取代、亲电加成、自由基链式反应）
+hasReactionPhenomenon	List of Strings	-	反应现象（如颜色变化、气体释放、沉淀生成、发光发热等）
+hasToxicity	String	-	反应产物毒性（如“低毒性”、“高致畸性”）
+hasIndustrialApplication	String	-	工业应用（如“合成氨”、“石油裂解”、“燃料电池”）
+hasEnvironmentalImpact	String	-	环境影响（如“温室气体排放”、“催化剂污染”）
+hasSafetyConsideration	String	-	安全注意事项（如“需防爆”、“需低温操作”）
+hasThermodynamicStability	String	-	热力学稳定性（如“产物稳定”、“反应物易分解”）

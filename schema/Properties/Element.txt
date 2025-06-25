@@ -1,0 +1,21 @@
+字段名	类型	单位	描述
+hasName	String	-	元素名称
+hasSymbol	String	-	元素符号（如 C）
+hasAtomic	Integer	-	原子序数
+hasWeight	Float	g/mol	原子量
+hasEnergyLevels	Integer	-	电子层数
+hasElectronAffinity	Float	kJ/mol	电子亲和能
+hasElectronegativity	Float	Pauling	电负性
+hasIonization	Float	kJ/mol	第一电离能
+hasMeltingPoint	Float	°C	熔点
+hasBoilingPoint	Float	°C	沸点
+hasDensity	Float	g/cm³	密度
+hasHardness	Integer or Float	Mohs	硬度
+hasConductivity	Float	W/(cm·K)	热导率
+hasModulus	Float	GPa	弹性模量
+hasRadius	Float	pm	原子半径
+hasGroup    String  -   元素族群
+hasAbundance	Float	%	在地壳中的丰度
+hasDiscoveredIn	Year	-	发现年份
+hasState	String	-	常温下状态（固/液/气）
+hasHeat	Float	J/g·K	比热容

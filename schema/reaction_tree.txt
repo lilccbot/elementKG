@@ -1,0 +1,571 @@
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OH进攻烷基碳,卤代烷的水解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OH进攻烷基碳,偕二卤代物的水解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OH进攻烷基碳,1,1,1-三卤化物的水解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OH进攻烷基碳,无机酸烷基酯的水解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OH进攻烷基碳,重氮酮的水解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OH进攻烷基碳,缩醛、烯醇酯及类似化合物的水解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OH进攻烷基碳,环氧化物的水解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OH进攻酰基碳,酰卤的水解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OH进攻酰基碳,酸酐的水解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OH进攻酰基碳,羧酸酯的水解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OH进攻酰基碳,酰胺的水解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OR进攻烷基碳,利用卤代烃的烷基化：Williamson反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OR进攻烷基碳,形成环氧化物（分子内Williamson醚合成）}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OR进攻烷基碳,使用无机酯的烷基化反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OR进攻烷基碳,用重氮化合物烷基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OR进攻烷基碳,醇的脱水}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OR进攻烷基碳,醚交换反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OR进攻烷基碳,环氧化物的醇解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OR进攻烷基碳,使用氧鎓盐烷基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OR进攻烷基碳,硅烷的羟基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OR进攻酰基碳,酰卤的醇解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OR进攻酰基碳,酸酐的醇解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OR进攻酰基碳,羧酸的酯化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OR进攻酰基碳,羧酸酯的醇解：酯交换反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OR进攻酰基碳,酰胺的醇解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OCOR进攻烷基碳,羧酸盐的烷基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OCOR进攻烷基碳,用酸酐裂解醚}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OCOR进攻烷基碳,用重氮化物烷基化羧酸}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OCOR进攻羰基碳,用酰卤酰基化羧酸}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,OCOR进攻羰基碳,用羧酸酰基化羧酸}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,其它氧亲核试剂,氧鎓盐的形成}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,其它氧亲核试剂,过氧化物和氢过氧化物的制备}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,其它氧亲核试剂,无机酯的制备}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,其它氧亲核试剂,偕二卤代物转化成醇}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,其它氧亲核试剂,有机无机酸混合酸酐的制备}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氧亲核试剂,其它氧亲核试剂,肟的烷基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),硫亲核试剂,SH进攻烷基碳：硫醇的形成}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),硫亲核试剂,SR进攻烷基碳：硫醚的形成}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),硫亲核试剂,SH或SR进攻酰基碳}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),硫亲核试剂,二硫化物的生成}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),硫亲核试剂,Bunte盐的生成}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),硫亲核试剂,亚磺酸盐的烷基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),硫亲核试剂,烷基硫氰酸酯的生成}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,NH2、NHR或NR2进攻烷基碳,胺的烷基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,NH2、NHR或NR2进攻烷基碳,胺的N-芳基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,NH2、NHR或NR2进攻烷基碳,氨基取代羟基的反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,NH2、NHR或NR2进攻烷基碳,转氨基反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,NH2、NHR或NR2进攻烷基碳,转酰胺反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,NH2、NHR或NR2进攻烷基碳,氮鎓化合物将胺烷基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,NH2、NHR或NR2进攻烷基碳,环氧化物的胺化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,NH2、NHR或NR2进攻烷基碳,氧杂环丁烷的胺化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,NH2、NHR或NR2进攻烷基碳,吖丙啶的胺化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,NH2、NHR或NR2进攻烷基碳,烷烃的胺化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,NH2、NHR或NR2进攻烷基碳,季铵盐的合成}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,酰基碳被NH2、NHR或NR2进攻,酰卤对胺的酰基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,酰基碳被NH2、NHR或NR2进攻,酸酐对胺的酰基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,酰基碳被NH2、NHR或NR2进攻,羧酸对胺的酰基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,酰基碳被NH2、NHR或NR2进攻,羧酸酯对胺的酰基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,酰基碳被NH2、NHR或NR2进攻,用酰胺酰基化胺}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,酰基碳被NH2、NHR或NR2进攻,用其它羧酸衍生物酰基化胺}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,NHCOR进攻,酰胺及酰亚胺的N-烷基化或N-芳基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,NHCOR进攻,酰胺和酰亚胺的N-酰基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,其它氮亲核试剂,由环氧化物生成吖丙啶}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,其它氮亲核试剂,硝基化合物的生成}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,其它氮亲核试剂,叠氮化物的形成}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,其它氮亲核试剂,异氰酸酯和异硫氰酸酯的形成}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氮亲核试剂,其它氮亲核试剂,氧化偶氮化合物的形成}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),卤素亲核试剂,进攻烷基碳,卤素交换}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),卤素亲核试剂,进攻烷基碳,由硫酸酯和磷酸酯生成卤代烷}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),卤素亲核试剂,进攻烷基碳,由醇形成卤代烷}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),卤素亲核试剂,进攻烷基碳,由醚形成卤代烷}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),卤素亲核试剂,进攻烷基碳,环氧化物形成卤代醇}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),卤素亲核试剂,进攻烷基碳,碘化锂裂解羧酸酯}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),卤素亲核试剂,进攻烷基碳,重氮酮到卤代酮的转化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),卤素亲核试剂,进攻烷基碳,胺到卤化物的转化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),卤素亲核试剂,进攻烷基碳,三级胺到氰基胺的转化：von Braun反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),卤素亲核试剂,进攻羰基碳,由羧酸形成酰卤}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),卤素亲核试剂,进攻羰基碳,由羧酸衍生物生成酰卤}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氢亲核试剂,进攻烷基碳,卤代烷的还原}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氢亲核试剂,进攻烷基碳,甲基磺酸酯及类似化合物的还原}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氢亲核试剂,进攻烷基碳,醇的氢解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氢亲核试剂,进攻烷基碳,酯的氢解（Barton-McCombie反应）}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氢亲核试剂,进攻烷基碳,胺的氢解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氢亲核试剂,进攻烷基碳,氢取代烷氧基}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氢亲核试剂,进攻烷基碳,环氧化物的还原}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氢亲核试剂,进攻烷基碳,羧酸酯的还原裂解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氢亲核试剂,进攻烷基碳,C-N键的还原}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氢亲核试剂,进攻烷基碳,脱硫反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氢亲核试剂,进攻酰基碳,酰卤的还原}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氢亲核试剂,进攻酰基碳,将羧酸、酯和酸酐还原为醛}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),氢亲核试剂,进攻酰基碳,将酰胺还原为醛}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,碳负离子与硅烷偶联}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,卤代烷的偶联：Wurtz反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,卤代烷和磺酸酯与第I族(IA)和第II族(IIA)有机金属试剂的反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,卤代烷和磺酸酯与有机铜试剂的反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,卤代烷和磺酸酯与其它金属有机试剂的反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,以卤化物为底物的烯丙基和炔丙基偶联}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,金属有机试剂与硫酸酯、磺酸酯、亚磺酸酯和碱的偶联}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,醇的偶联}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,金属有机试剂与羧酸酯的偶联}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,金属有机试剂与含硫键化合物的偶联}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,金属有机试剂与环氧化物的反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,金属有机化合物与吖丙啶的反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,有一个活泼α-H的碳负离子的烷基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,酮、醛、腈和羧酸酯的α-烷基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,羧酸盐的α-烷基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,杂原子α位的烷基化：1,3-二噻烷的烷基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,二氢-1,3-噁嗪的烷基化：醛、酮和羧酸的Meyers合成}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,用三烷基硼烷烷基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,炔基碳上的烷基化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,腈的制备}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,卤代烷直接转化为醚、酮}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻烷基碳,卤代烷、醇、烷烃转化为羧酸及其衍生物}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻酰基碳,有机金属化合物将酰卤转化为酮}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻酰基碳,有机金属化合物将酸酐、羧酸酯或酰胺转化为酮}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻酰基碳,酰卤的偶联}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻酰基碳,含有活泼氢碳负离子的酰化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻酰基碳,由羧酸酯酰化羧酸酯；Claisen和Dieckmann缩合}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻酰基碳,羧酸酯酰化酮和腈}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻酰基碳,羧酸盐的酰化}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻酰基碳,酰基氰的制备}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻酰基碳,重氮酮的制备}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),碳亲核试剂,进攻酰基碳,脱羧成酮反应}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),对磺酰基硫原子的亲核取代,被OH进攻：磺酸衍生物的水解}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),对磺酰基硫原子的亲核取代,被OR进攻：磺酸酯的形成}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),对磺酰基硫原子的亲核取代,被氮进攻：磺胺的形成}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),对磺酰基硫原子的亲核取代,被卤素进攻：磺酰卤的形成}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),对磺酰基硫原子的亲核取代,被氢进攻：磺酰氯的还原}
+{脂肪族亲核取代反应 (Aliphatic Nucleophilic Substitution),对磺酰基硫原子的亲核取代,被碳进攻：砜的制备}
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,氢作为亲电试剂,氢/氘交换或氘代} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,氮亲电试剂,硝化或脱卤硝化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,氮亲电试剂,亚硝基化或脱氢亚硝化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,氮亲电试剂,重氮盐偶联反应} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,氮亲电试剂,直接引入重氮基} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,氮亲电试剂,胺化或胺化脱氢} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,硫亲电试剂,磺化或脱氢磺化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,硫亲电试剂,卤磺化或脱氢卤磺化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,硫亲电试剂,硫化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,硫亲电试剂,磺酰化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,卤素亲电试剂,卤化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,Friedel-Crafts烷基化反应} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,Friedel-Crafts芳基化反应：Scholl反应} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,Friedel-Crafts酰基化反应} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,用二取代甲酰胺甲酰化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,用氯化锌和HCl甲酰化：Gatterman反应} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,用氯仿甲酰化：Reimer-Tiemann反应} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,其他甲酰化反应} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,用碳酰卤羧化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,用CO2羧化：Kolbe-Schmitt反应} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,酰胺化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,羟烷基化或脱氢羟烷基化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,含羰基化合物的成环脱水} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,卤烷基化或者脱氢卤烷基化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,氨烷基化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,硫烷基化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,用腈酰基化：Hoesch反应} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,碳亲电试剂,氰化或脱氢氰化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,氧亲电试剂,羟基化或脱氢羟基化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在简单取代反应中作为离去基团,金属亲电试剂,金属亲电试剂} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在重排反应中作为离去基团,从氧离去的基团,Fries重排} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在重排反应中作为离去基团,从氮离去的基团,硝基的迁移} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在重排反应中作为离去基团,从氮离去的基团,亚硝基的迁移：Fischer-Hepp重排} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在重排反应中作为离去基团,从氮离去的基团,芳基偶氮基的迁移} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在重排反应中作为离去基团,从氮离去的基团,卤原子的迁移：Orton重排} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),氢在重排反应中作为离去基团,从氮离去的基团,烷基的迁移} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),其他离去基团,碳离去基团,Friedel-Crafts烷基化的逆反应} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),其他离去基团,碳离去基团,芳醛的脱羰} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),其他离去基团,碳离去基团,芳酸的脱羧} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),其他离去基团,碳离去基团,Jacobsen反应} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),其他离去基团,氧离去基团,脱磺化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),其他离去基团,硫离去基团,脱磺化或脱氢磺化} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),其他离去基团,卤原子离去基团,脱卤化或者脱卤加氢} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),其他离去基团,金属离去基团,有机金属化合物的形成} 
+{芳香亲电取代反应 (Aromatic Electrophilic Substitution),其他离去基团,金属离去基团,有机金属化合物的水解}
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,氢作为亲电试剂,交换} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,氢作为亲电试剂,双键的迁移} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,氢作为亲电试剂,酮-烯醇异构化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,卤原子亲电试剂,醛和酮的α-卤代} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,卤原子亲电试剂,羧酸和酰卤的α-卤代} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,卤原子亲电试剂,亚砜和砜的α-卤代} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,氮亲电试剂,脂肪族重氮盐偶联反应} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,氮亲电试剂,含活泼亚甲基碳上的亚硝化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,氮亲电试剂,重氮化合物的直接形成} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,氮亲电试剂,将酰胺转化为叠氮化物} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,氮亲电试剂,活化位点的直接胺化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,氮亲电试剂,氮烯的插入反应} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,硫亲电试剂,酮和酯的α-亚磺酰化、α-磺化和α-硒化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,碳亲电试剂,脂肪族碳的酰化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,碳亲电试剂,将醛转化为α-羰基酯或α-酮醛} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,碳亲电试剂,氰化作用} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,碳亲电试剂,烷烃的烷基化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,碳亲电试剂,Stork烯胺反应} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,碳亲电试剂,卡宾的插入反应} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,金属亲电试剂,利用有机金属化合物的金属化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,金属亲电试剂,利用金属和强碱的金属化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氢作为离去基团,金属亲电试剂,从烯醇盐到烯醇硅醚的转化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),金属作为离去基团,氢作为亲电试剂,金属被氢置换} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),金属作为离去基团,氧亲电试剂,有机金属试剂与氧的反应} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),金属作为离去基团,氧亲电试剂,有机金属试剂与过氧化物的反应} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),金属作为离去基团,氧亲电试剂,三烷基硼烷氧化为硼酸酯} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),金属作为离去基团,硫亲电试剂,格氏试剂转变为硫醇化合物} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),金属作为离去基团,卤素亲电试剂,卤去金属化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),金属作为离去基团,氮亲电试剂,有机金属化合物转变为胺} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),金属作为离去基团,碳亲电试剂,有机金属化合物转变为酮、醛、羧酸酯或酰胺} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),金属作为离去基团,碳亲电试剂,碳-去金属化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),金属作为离去基团,金属亲电试剂,金属置换金属} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),金属作为离去基团,金属亲电试剂,用金属卤化物进行金属置换} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),金属作为离去基团,金属亲电试剂,用有机金属化合物进行金属置换} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),卤原子作为离去基团,氢作为亲电试剂,卤代烷的还原} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),卤原子作为离去基团,金属亲电试剂,金属-去卤化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),卤原子作为离去基团,金属亲电试剂,金属有机化合物中的金属置换卤原子} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),碳离去基团,碳-碳键断裂的同时形成羰基,脂肪族酸的脱羧} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),碳离去基团,碳-碳键断裂的同时形成羰基,醇盐的裂解} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),碳离去基团,碳-碳键断裂的同时形成羰基,羧基被酰基的置换} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),碳离去基团,酰基断裂,酮酸酯和β-二酮的碱性断裂} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),碳离去基团,酰基断裂,卤仿反应} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),碳离去基团,酰基断裂,不能烯醇化的酮的断裂} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),碳离去基团,酰基断裂,Haller-Bauer反应} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),碳离去基团,其他断裂,烷烃的断裂} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),碳离去基团,其他断裂,脱氰化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氮上的亲电取代,重氮化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氮上的亲电取代,胺转化为叠氮化物} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氮上的亲电取代,N-亚硝基化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氮上的亲电取代,胺转化为偶氮化合物} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氮上的亲电取代,亚硝基化合物转化为氧化偶氮化合物} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氮上的亲电取代,N-卤化} 
+{烷基、烯基和炔基的取代反应 (亲电的和金属有机的反应) (Substitution Reactions at Aliphatic, Vinylic, and Acetylenic Carbon (Electrophilic and Organometallic)),氮上的亲电取代,胺和CO或CS2的反应} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),所有离去基团（不包括氢和N2）,氧亲核试剂,氢氧根取代卤原子} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),所有离去基团（不包括氢和N2）,氧亲核试剂,磺酸盐的碱熔融} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),所有离去基团（不包括氢和N2）,氧亲核试剂,被OR或者OAr取代} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),所有离去基团（不包括氢和N2）,硫亲核试剂,被SH或SR取代} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),所有离去基团（不包括氢和N2）,氮亲核试剂,被NH2、NHR或NR2取代} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),所有离去基团（不包括氢和N2）,氮亲核试剂,氨基取代羟基的反应} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),所有离去基团（不包括氢和N2）,卤素亲核试剂,卤原子的引入} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),所有离去基团（不包括氢和N2）,氢作为亲核试剂,苯酚和其他苯羟基化合物的还原} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),所有离去基团（不包括氢和N2）,氢作为亲核试剂,卤化物以及硝基化物的还原} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),所有离去基团（不包括氢和N2）,碳亲核试剂,Rosenmund-von Braun反应} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),所有离去基团（不包括氢和N2）,碳亲核试剂,金属有机化合物与芳基卤化物、芳基醚以及羧酸酯的偶联} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),所有离去基团（不包括氢和N2）,碳亲核试剂,含有活泼氢碳原子的芳基化} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),所有离去基团（不包括氢和N2）,碳亲核试剂,芳基转化为羧酸、羧酸衍生物、醛和酮} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),所有离去基团（不包括氢和N2）,碳亲核试剂,Ullmann反应} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),氢作为离去基团,烷基化和芳基化} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),氢作为离去基团,含氮杂环化合物的胺化（Chichibabin反应）} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),N2作为离去基团,羟基取代重氮基} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),N2作为离去基团,被含硫基团取代} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),N2作为离去基团,卤原子取代重氮基} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),N2作为离去基团,Schiemann反应} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),N2作为离去基团,氢取代重氮基} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),重排反应,von Richter重排} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),重排反应,Sommelet-Hauser重排} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),重排反应,芳基羟胺的重排} 
+{芳香族化合物的取代反应(亲核的反应和金属有机的反应) (Substitution Reactions of Aromatic Compounds (Nucleophilic and Organometallic)),重排反应,Smiles重排} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被卤原子取代,烷基碳上的卤代} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被卤原子取代,烯丙位和苄位的卤代} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被卤原子取代,醛的卤代} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被氧取代,脂肪族碳上羟基化} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被氧取代,在芳香碳上羟基化} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被氧取代,醛被氧化为羧酸} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被氧取代,环醚的形成} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被氧取代,氢过氧化物的形成} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被氧取代,过氧化物的形成} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被氧取代,酰氧基化} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被硫取代,氯磺化} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被氮取代,烷烃的硝化} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被氮取代,胺直接转变为酰胺} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被氮取代,烷烃碳的酰胺化和胺化} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被碳取代,在敏感位点的简单偶联} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被碳取代,炔的偶联} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被碳取代,用重氮盐芳基化芳香族化合物} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被碳取代,活化烯烃被重氮盐芳基化：Meerwein芳基化} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被碳取代,有机化合物对烯烃的芳基化和烷基化：Heck反应} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被碳取代,利用乙烯基锡烷基化和芳基化烯烃：Stille反应} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被碳取代,过氧化物烷基化和芳基化芳香族化合物} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被碳取代,芳香族化合物的光化学芳基化} 
+{自由基取代 (Radical Substitution),氢作为离去基团,被碳取代,含氮杂环的烷基化、酰基化和烷氧羰基化} 
+{自由基取代 (Radical Substitution),N2作为离去基团,重氮基被氢置换} 
+{自由基取代 (Radical Substitution),N2作为离去基团,重氮基被碘或溴置换} 
+{自由基取代 (Radical Substitution),N2作为离去基团,重氮基被硝基置换} 
+{自由基取代 (Radical Substitution),N2作为离去基团,重氮基被含硫基团置换} 
+{自由基取代 (Radical Substitution),N2作为离去基团,重氮盐的芳基二聚} 
+{自由基取代 (Radical Substitution),N2作为离去基团,重氮盐的甲基化、乙烯基化和芳基化} 
+{自由基取代 (Radical Substitution),N2作为离去基团,重氮盐转变为醛、酮或腈} 
+{自由基取代 (Radical Substitution),金属作为离去基团,Grignard试剂的偶联} 
+{自由基取代 (Radical Substitution),金属作为离去基团,硼烷的偶联} 
+{自由基取代 (Radical Substitution),金属作为离去基团,其他有机金属试剂的偶联} 
+{自由基取代 (Radical Substitution),卤原子作为离去基团,卤原子被取代} 
+{自由基取代 (Radical Substitution),硫作为离去基团,脱硫反应} 
+{自由基取代 (Radical Substitution),硫作为离去基团,硫醚转变为有机锂化合物} 
+{自由基取代 (Radical Substitution),碳作为离去基团,脱羧二聚：Kolbe反应} 
+{自由基取代 (Radical Substitution),碳作为离去基团,Hunsdiecker反应} 
+{自由基取代 (Radical Substitution),碳作为离去基团,脱羧基烯丙基化} 
+{自由基取代 (Radical Substitution),碳作为离去基团,醛和酰卤的脱羰} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),双键和叁键的异构化,异构化} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,卤原子加到另一端,卤化氢加成} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,氧加成到另一端,双键上的水合} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,氧加成到另一端,叁键上的水合} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,氧加成到另一端,加成醇和酚} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,氧加成到另一端,与羧酸加成形成酯} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,硫加到另一端,加成H2S和硫醇} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,氮或磷加成到另一端,加成氨、胺、膦及相应化合物} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,氮或磷加成到另一端,加成酰胺} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,氮或磷加成到另一端,加成叠氮酸} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,氢加在两侧,双键和叁键的氢化} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,氢加在两侧,双键和叁键的其他还原} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,氢加在两侧,共轭双键和叁键的还原} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,氢加在两侧,芳环的氢化} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,氢加在两侧,环丙烷的还原开环} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,金属进攻另一侧,硼氢化反应} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,金属进攻另一侧,其他氢金属化反应} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,加成烷烃} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,烯烃和/或炔烃加成到烯烃和/或炔烃} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,单烯加成} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,Michael反应} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,有机金属化合物与羰基未共轭的双键和叁键的加成} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,两个烷基加成到炔烃} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,金属有机化合物与活泼双键的1,4-加成} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,硅烷与活泼双键的加成} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,锡和汞的氢化物与活泼双键的加成} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,活泼双键和叁键的酰化} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,加成醇、胺、羧酸酯和醛等（碳-碳键形成）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,双键和叁键的羰基化} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,氢羧基化} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,氢甲酰化} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,杂原子亲核试剂的共轭加成} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,加成醛（Prins反应变体）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,加成HCN} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,加成硅烷（氢化硅烷化）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,自由基加成} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),氢加到一端的反应,碳进攻另一侧,自由基环化} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,卤原子加成在一侧或两侧,双键和叁键的卤化（加成卤素）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,卤原子加成在一侧或两侧,卤内酯化和卤内酰胺化} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,卤原子加成在一侧或两侧,次卤酸和次卤酸盐的加成（加成卤素、氧）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,卤原子加成在一侧或两侧,加成卤化硫（加成卤素、硫）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,卤原子加成在一侧或两侧,加成卤原子和氨基（加成卤素、氮）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,卤原子加成在一侧或两侧,加成NOX和NO2X（加成卤素、氮）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,卤原子加成在一侧或两侧,加成XN3（加成卤素、氮）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,卤原子加成在一侧或两侧,加成烷基卤化物（加成卤素、碳）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,卤原子加成在一侧或两侧,加成酰卤（加成卤素、碳）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,氧、氮或硫加成在一侧或两侧,羟基化（加成氧、氧）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,氧、氮或硫加成在一侧或两侧,芳香环的二羟基化} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,氧、氮或硫加成在一侧或两侧,环氧化（加成氧、氧）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,氧、氮或硫加成在一侧或两侧,二烯烃的光氧化（加成氧、氧）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,氧、氮或硫加成在一侧或两侧,羟基亚磺酰化（加成氧、硫）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,氧、氮或硫加成在一侧或两侧,羟胺化（加成氧、氮）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,氧、氮或硫加成在一侧或两侧,二胺化（加成氮、氮）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,氧、氮或硫加成在一侧或两侧,生成氮丙啶（加成氮、氮）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,氧、氮或硫加成在一侧或两侧,氨基亚磺酰基化（加成氮、硫）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,氧、氮或硫加成在一侧或两侧,酰基酰氧基化和酰基胺化（加成氧、碳；或氮、碳）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,氧、氮或硫加成在一侧或两侧,烯烃转化为γ-内酯（加成氧、碳）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,氧、氮或硫加成在一侧或两侧,1,3-偶极加成（加成氧、氮和碳）} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,碳原子加在两侧,Diels-Alder反应} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,碳原子加在两侧,含杂原子的Diels-Alder反应} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,碳原子加在两侧,全碳原子体系的[3+2]环加成} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,碳原子加在两侧,烯烃的二聚} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,碳原子加在两侧,卡宾和类卡宾与双键和叁键的加成} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,碳原子加在两侧,炔烃的三聚和四聚} 
+{不饱和碳-碳键的加成反应 (Addition to Carbon-Carbon Multiple Bonds),没有氢原子加成的反应,碳原子加在两侧,其他环加成反应} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,OH的进攻（加成H2O）,水加成到醛和酮上：形成水合物} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,OH的进攻（加成H2O）,碳-氮双键的水解} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,OH的进攻（加成H2O）,脂肪族硝基化合物的水解（Nef反应）} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,OH的进攻（加成H2O）,腈的水解} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,OR的进攻（加成ROH）,醇和硫醇加成到醛和酮上} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,OR的进攻（加成ROH）,醇的还原烷基化} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,OR的进攻（加成ROH）,醇加成到异氰酸酯} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,OR的进攻（加成ROH）,腈的醇解} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,OR的进攻（加成ROH）,黄原酸盐的生成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,硫亲核试剂,H2S和硫醇加成到羰基化合物上} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,硫亲核试剂,亚硫酸氢盐加成产物的形成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,被NH2、NHR或NR2进攻（加成NH3、RNH2或R2NH）,胺与醛、酮的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,被NH2、NHR或NR2进攻（加成NH3、RNH2或R2NH）,酰胺与醛加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,被NH2、NHR或NR2进攻（加成NH3、RNH2或R2NH）,氨或胺的还原烷基化} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,被NH2、NHR或NR2进攻（加成NH3、RNH2或R2NH）,Mannich反应} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,被NH2、NHR或NR2进攻（加成NH3、RNH2或R2NH）,胺与异氰酸酯的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,被NH2、NHR或NR2进攻（加成NH3、RNH2或R2NH）,氨或胺与腈的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,被NH2、NHR或NR2进攻（加成NH3、RNH2或R2NH）,胺与二硫化碳和二氧化碳的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,其他氮亲核试剂,肼衍生物与羰基化合物的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,其他氮亲核试剂,肟的形成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,其他氮亲核试剂,醛转化为腈} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,卤素亲核试剂,从醛和酮形成偕二卤化物} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,被氢进攻,醛和酮被还原为醇} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,被氢进攻,碳-氮双键的还原} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,被氢进攻,腈还原成胺} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,被氢进攻,腈还原成醛} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被金属有机化合物进攻,Grignard试剂和有机锂试剂与醛和酮的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被金属有机化合物进攻,其他有机金属试剂与醛和酮的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被金属有机化合物进攻,三烷基烯丙基硅烷与醛和酮的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被金属有机化合物进攻,共轭烯烃与醛的加成：Baylis-Hillman反应} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被金属有机化合物进攻,Reformatsky反应} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被金属有机化合物进攻,有机金属化合物将羧酸盐转化为酮} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被金属有机化合物进攻,Grignard试剂与羧酸衍生物的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被金属有机化合物进攻,有机金属化合物与CO2和CS2的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被金属有机化合物进攻,有机金属化合物与含C=N键化合物的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被金属有机化合物进攻,卡宾和重氮甲烷与含C=N键化合物的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被金属有机化合物进攻,Grignard试剂与腈和异氰酸酯的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被含活性氢化合物进攻,羟醛缩合反应} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被含活性氢化合物进攻,Mukaiyama羟醛反应及相关反应} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被含活性氢化合物进攻,羧酸酯或酰胺与醛或酮之间的类羟醛缩合} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被含活性氢化合物进攻,Knoevenagel反应} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被含活性氢化合物进攻,Peterson烯化反应} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被含活性氢化合物进攻,活泼亚甲基化合物与CO2和CS2的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被含活性氢化合物进攻,Perkin反应} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被含活性氢化合物进攻,Darzens缩水甘油酸酯缩合} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被含活性氢化合物进攻,Tollens反应} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被含活性氢化合物进攻,Wittig反应} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被含活性氢化合物进攻,Tebbe,Petasis和交替的烯基化} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,碳被含活性氢化合物进攻,Thorpe反应} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,其他碳亲核试剂,硅烷的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,其他碳亲核试剂,氰醇的生成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,其他碳亲核试剂,HCN、C≡N和C=N键的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,其他碳亲核试剂,Prins反应} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,其他碳亲核试剂,安息香缩合} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),氢或金属离子加成到杂原子上的反应,其他碳亲核试剂,自由基与C=O,C=S,C≡N化合物的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),碳加成到杂原子上的反应,氧加成到碳上,Ritter反应} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),碳加成到杂原子上的反应,氧加成到碳上,醛和酮的酰化} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),碳加成到杂原子上的反应,氧加成到碳上,醛与醛的加成（Tishchenko反应的部分机理）} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),碳加成到杂原子上的反应,氮加成到碳上,异氰酸酯与异氰酸酯的加成（形成碳二亚胺）} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),碳加成到杂原子上的反应,氮加成到碳上,羧酸盐转化为腈} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),碳加成到杂原子上的反应,碳加成到碳上,从醛和酮形成环氧化物} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),碳加成到杂原子上的反应,碳加成到碳上,环硫化物和环砜的形成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),碳加成到杂原子上的反应,碳加成到碳上,β-内酯和环氧乙烷的形成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),碳加成到杂原子上的反应,碳加成到碳上,β-内酰胺的形成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),与异腈的加成,水与异腈的加成} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),与异腈的加成,Passerini和Ugi反应} 
+{与碳-杂原子多重键的加成 (Addition to Carbon-Hetero Multiple Bonds),与异腈的加成,金属醛亚胺的形成} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,醇的脱水} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,醚的裂解生成烯} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,羧酸和羧酸酯的热解} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,Chugaev反应} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,其他酯的分解} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,季铵碱的裂解} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,用强碱使季铵盐裂解} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,氧化胺的裂解} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,β-内酯盐的热解} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,对甲苯磺酰肼的分解} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,亚砜、硒氧化物和砜的裂解} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,卤代烷的脱卤化氢} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,酰卤和磺酰卤的脱卤化氢} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,硼烷的消去} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,从烯烃到炔烃的转变} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,从一侧移去氢的反应,醛和酰卤的脱羰} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,非氢原子离去基的反应,邻二醇的脱羟基} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,非氢原子离去基的反应,α-硫代碳酸酯的裂解} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,非氢原子离去基的反应,环氧化物和环硫化物转变为烯烃} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,非氢原子离去基的反应,Ramberg-Bäcklund反应} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,非氢原子离去基的反应,氮丙啶转变成烯烃} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,非氢原子离去基的反应,邻二卤化物的脱卤反应} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,非氢原子离去基的反应,α-卤代酰卤的脱卤反应} 
+{消去反应 (Elimination Reactions),形成C=C和C≡C键的反应,非氢原子离去基的反应,卤素和含杂原子基团的消去} 
+{消去反应 (Elimination Reactions),断链反应,γ-氨基卤化物和羟基卤化物的断链} 
+{消去反应 (Elimination Reactions),断链反应,1,3-二醇的断链} 
+{消去反应 (Elimination Reactions),断链反应,β-羟基酸和β-内酯的脱羧} 
+{消去反应 (Elimination Reactions),断链反应,α,β-环氧酸的开环} 
+{消去反应 (Elimination Reactions),断链反应,从桥头二环化合物中消去CO和CO2} 
+{消去反应 (Elimination Reactions),形成C=N或C≡N键的反应,醛肟及类似化合物的脱水} 
+{消去反应 (Elimination Reactions),形成C=N或C≡N键的反应,酮肟转变成腈} 
+{消去反应 (Elimination Reactions),形成C=N或C≡N键的反应,无取代酰胺的脱水} 
+{消去反应 (Elimination Reactions),形成C=N或C≡N键的反应,N-烷基甲酰胺转变为异腈} 
+{消去反应 (Elimination Reactions),形成C=O键的反应,β-羟基烯烃的热解} 
+{消去反应 (Elimination Reactions),形成N=N键的反应,消去生成重氮烷} 
+{消去反应 (Elimination Reactions),挤出反应,从吡唑啉、吡唑和三唑啉中挤出N2} 
+{消去反应 (Elimination Reactions),挤出反应,CO或CO2的挤出} 
+{消去反应 (Elimination Reactions),挤出反应,SO2的挤出} 
+{消去反应 (Elimination Reactions),挤出反应,Story合成} 
+{消去反应 (Elimination Reactions),挤出反应,通过Twofold挤出反应合成烯烃} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R、H和Ar的碳-碳迁移,Wagner-Meerwein以及相关反应} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R、H和Ar的碳-碳迁移,频哪醇重排} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R、H和Ar的碳-碳迁移,扩环和缩环反应} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R、H和Ar的碳-碳迁移,醛和酮的酸催化重排} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R、H和Ar的碳-碳迁移,二烯-苯酚重排} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R、H和Ar的碳-碳迁移,偶苯酰-二苯乙醇酸重排} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R、H和Ar的碳-碳迁移,Favorskii重排} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R、H和Ar的碳-碳迁移,Arndt-Eistert合成} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R、H和Ar的碳-碳迁移,醛和酮的同系化升级} 
+{重排反应 (Rearrangement Reactions),1,2-重排,其他基团的碳-碳迁移,卤素、羟基、氨基等的迁移} 
+{重排反应 (Rearrangement Reactions),1,2-重排,其他基团的碳-碳迁移,酰基的迁移} 
+{重排反应 (Rearrangement Reactions),1,2-重排,其他基团的碳-碳迁移,Neber重排} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R和Ar的碳-氮迁移,Hofmann重排} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R和Ar的碳-氮迁移,Curtius重排} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R和Ar的碳-氮迁移,Lossen重排} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R和Ar的碳-氮迁移,Schmidt反应} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R和Ar的碳-氮迁移,Beckmann重排} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R和Ar的碳-氮迁移,Stieglitz重排及相关的重排} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R和Ar的碳-氧迁移,Baeyer-Villiger重排} 
+{重排反应 (Rearrangement Reactions),1,2-重排,R和Ar的碳-氧迁移,氢过氧化物的重排} 
+{重排反应 (Rearrangement Reactions),1,2-重排,氮-碳,氧-碳和硫-碳迁移,Stevens重排} 
+{重排反应 (Rearrangement Reactions),1,2-重排,氮-碳,氧-碳和硫-碳迁移,Wittig重排} 
+{重排反应 (Rearrangement Reactions),1,2-重排,硼-碳迁移,硼烷转变为醇} 
+{重排反应 (Rearrangement Reactions),1,2-重排,硼-碳迁移,硼烷转变为一级胺、醛或羧酸} 
+{重排反应 (Rearrangement Reactions),1,2-重排,硼-碳迁移,烯丙基硼烷转变为烯烃} 
+{重排反应 (Rearrangement Reactions),1,2-重排,硼-碳迁移,从硼烷和卤代物合成炔烃、烯烃和酮} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,电环化重排,环丁烯和1,3-环己二烯的电环化重排} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,电环化重排,均二苯代乙烯转变成菲} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,σ迁移重排,[1,j]-σ迁移} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,σ迁移重排,碳[1,j]-σ迁移} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,σ迁移重排,乙烯基环丙烷转变为环戊烯} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,σ迁移重排,Cope重排} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,σ迁移重排,Claisen重排} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,σ迁移重排,Fischer吲哚合成} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,σ迁移重排,[2,3]-σ迁移重排} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,σ迁移重排,联苯胺重排} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,其他环状重排,烯烃复分解反应} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,其他环状重排,金属离子催化的σ键重排} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,其他环状重排,二-π-甲烷和相关的重排} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,其他环状重排,Hofmann-Löffler反应以及相关反应} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,非环重排,氢迁移（烯烃异构化）} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,非环重排,Chapman重排} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,非环重排,Wallach重排} 
+{重排反应 (Rearrangement Reactions),非1,2-重排,非环重排,芳烃侧链重排} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,消去氢,六元环的芳构化} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,消去氢,脱氢产生碳-碳双键} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,消去氢,醇氧化或脱氢生成醛和酮} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,消去氢,苯酚和芳胺被氧化成醌} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,消去氢,胺的脱氢} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,消去氢,肼、偶氮和羟胺的氧化} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,导致C-C断裂的氧化,邻二醇及相关化合物的氧化裂解} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,导致C-C断裂的氧化,酮、醛和醇的氧化裂解} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,导致C-C断裂的氧化,臭氧化} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,导致C-C断裂的氧化,双键及芳环的氧化裂解} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,导致C-C断裂的氧化,芳基侧链的氧化} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,导致C-C断裂的氧化,氧化脱羧} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,导致C-C断裂的氧化,双脱羧反应} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氢被氧置换的反应,亚甲基被氧化成羰基} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氢被氧置换的反应,亚甲基氧化成OH、O2CR或OR} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氢被氧置换的反应,芳基甲烷的氧化} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氢被氧置换的反应,醚氧化成酯及其相关反应} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氢被氧置换的反应,芳烃氧化为醌} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氢被氧置换的反应,伯卤代烷和伯醇的酯被氧化成醛} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氢被氧置换的反应,胺或硝基化合物氧化成醛、酮或偕二卤化物} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氢被氧置换的反应,伯醇氧化成羧酸或羧酸酯} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氢被氧置换的反应,烯烃氧化成醛或酮} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氢被氧置换的反应,胺氧化成亚硝基化合物和羟胺} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氢被氧置换的反应,一级胺、肟、叠氮化物、异氰酸酯及亚硝基化合物氧化成硝基化合物} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氢被氧置换的反应,硫醇及其他含硫化合物氧化成磺酸、亚磺酸等} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氧与底物加成的反应,炔烃氧化成α-二酮} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氧与底物加成的反应,三级胺氧化成氧化胺} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氧与底物加成的反应,硫醚氧化成亚砜和砜} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氧与底物加成的反应,羧酸氧化成过酸} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氧化偶联反应,涉及碳负离子的偶联} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氧化偶联反应,甲硅烷基烯醇醚或烯醇锂的二聚} 
+{氧化还原反应 (Oxidation-Reduction Reactions),氧化,氧化偶联反应,硫醇氧化成二硫化物} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,氧被氢取代的反应,醛和酮的羰基被还原成亚甲基} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,氧被氢取代的反应,羧酸还原成醇} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,氧被氢取代的反应,酰胺还原成胺} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,氧被氢取代的反应,羧酸酯还原成醚} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,氧被氢取代的反应,酸酐还原成内酯，羧酸衍生物还原成醇} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,氧被氢取代的反应,羧酸酯还原成醇} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,氧被氢取代的反应,羧酸或羧酸酯还原成烷烃} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,氧被氢取代的反应,环氧化物的彻底还原} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,氧被氢取代的反应,硝基化合物还原成胺} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,氧被氢取代的反应,硝基化合物还原成羟胺} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,氧被氢取代的反应,亚硝基化合物和羟胺还原成胺} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,氧被氢取代的反应,肟还原成一级胺或氮丙啶} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,氧被氢取代的反应,叠氮化物还原成一级胺} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,氧被氢取代的反应,各种含氮化合物的还原} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,氧被氢取代的反应,磺酰卤和磺酸还原成硫醇} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,从底物中除去氧的反应,氧化胺和氧化偶氮化合物的还原} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,从底物中除去氧的反应,亚砜和砜的还原} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,从底物中除去氧的反应,氢过氧化物和过氧化物的还原} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,从底物中除去氧的反应,脂肪族硝基化合物还原成肟或腈} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,裂解还原,胺和酰胺的脱烷基} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,裂解还原,偶氮、氧化偶氮和氢化偶氮化合物还原成胺} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,裂解还原,二硫化物还原成硫醇} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,还原偶联,醛和酮双分子还原成1,2-二醇} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,还原偶联,醛或酮双分子还原成烯烃} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,还原偶联,酮醇缩合} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,还原偶联,硝基化合物还原成氧化偶氮化合物} 
+{氧化还原反应 (Oxidation-Reduction Reactions),还原：选择性,还原偶联,硝基化合物还原成偶氮化合物} 
+{氧化还原反应 (Oxidation-Reduction Reactions),底物既被氧化又被还原,Cannizzaro反应} 
+{氧化还原反应 (Oxidation-Reduction Reactions),底物既被氧化又被还原,Tishchenko反应} 
+{氧化还原反应 (Oxidation-Reduction Reactions),底物既被氧化又被还原,Pummerer重排} 
+{氧化还原反应 (Oxidation-Reduction Reactions),底物既被氧化又被还原,Willgerodt反应}

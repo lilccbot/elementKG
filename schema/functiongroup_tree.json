@@ -1,0 +1,329 @@
+{
+    "name": "functionalGroup",
+    "children": [
+        {
+            "name": "GroupsContainingMetals",
+            "children": [
+                {
+                    "name": "Alkylaluminium",
+                    "children": []
+                },
+                {
+                    "name": "Alkyllithium",
+                    "children": []
+                },
+                {
+                    "name": "SilylEther",
+                    "children": []
+                },
+                {
+                    "name": "AlkylmagnesiumHalide",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "GroupsContainingOxygen",
+            "children": [
+                {
+                    "name": "Heterocycle",
+                    "children": []
+                },
+                {
+                    "name": "Ketal",
+                    "children": []
+                },
+                {
+                    "name": "OrganicAcidAnhydride",
+                    "children": []
+                },
+                {
+                    "name": "Aldehyde",
+                    "children": []
+                },
+                {
+                    "name": "Ester",
+                    "children": []
+                },
+                {
+                    "name": "AcylHalide",
+                    "children": []
+                },
+                {
+                    "name": "Ketone",
+                    "children": []
+                },
+                {
+                    "name": "Hemiketal",
+                    "children": []
+                },
+                {
+                    "name": "Alcohol",
+                    "children": []
+                },
+                {
+                    "name": "Acetal",
+                    "children": []
+                },
+                {
+                    "name": "Carboxylate",
+                    "children": []
+                },
+                {
+                    "name": "CarboxylicAcid",
+                    "children": []
+                },
+                {
+                    "name": "Ether",
+                    "children": []
+                },
+                {
+                    "name": "Carbonate",
+                    "children": []
+                },
+                {
+                    "name": "Hemiacetal",
+                    "children": []
+                },
+                {
+                    "name": "Hydroperoxide",
+                    "children": []
+                },
+                {
+                    "name": "Orthoester",
+                    "children": []
+                },
+                {
+                    "name": "Peroxide",
+                    "children": []
+                },
+                {
+                    "name": "OrthocarbonateEster",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Hydrocarbons",
+            "children": [
+                {
+                    "name": "Alkyne",
+                    "children": []
+                },
+                {
+                    "name": "Alkene",
+                    "children": []
+                },
+                {
+                    "name": "Alkane",
+                    "children": []
+                },
+                {
+                    "name": "BenzeneDerivative",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "GroupsContainingHalogen",
+            "children": [
+                {
+                    "name": "haloalkane",
+                    "children": []
+                },
+                {
+                    "name": "fluoroalkane",
+                    "children": []
+                },
+                {
+                    "name": "chloroalkane",
+                    "children": []
+                },
+                {
+                    "name": "bromoalkane",
+                    "children": []
+                },
+                {
+                    "name": "iodoalkane",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "GroupsContainingNitrogen",
+            "children": [
+                {
+                    "name": "NitrosoCompound",
+                    "children": []
+                },
+                {
+                    "name": "Oxime",
+                    "children": []
+                },
+                {
+                    "name": "Nitrite",
+                    "children": []
+                },
+                {
+                    "name": "PyridineDerivative",
+                    "children": []
+                },
+                {
+                    "name": "AzoCompound",
+                    "children": []
+                },
+                {
+                    "name": "Nitrate",
+                    "children": []
+                },
+                {
+                    "name": "CarbamateEster",
+                    "children": []
+                },
+                {
+                    "name": "Amines",
+                    "children": []
+                },
+                {
+                    "name": "Amide",
+                    "children": []
+                },
+                {
+                    "name": "NitroCompound",
+                    "children": []
+                },
+                {
+                    "name": "Nitrile",
+                    "children": []
+                },
+                {
+                    "name": "Azide",
+                    "children": []
+                },
+                {
+                    "name": "Imine",
+                    "children": []
+                },
+                {
+                    "name": "Amidine",
+                    "children": []
+                },
+                {
+                    "name": "Imide",
+                    "children": []
+                },
+                {
+                    "name": "Cyanates",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "GroupsContainingBoron",
+            "children": [
+                {
+                    "name": "BoronicEster",
+                    "children": []
+                },
+                {
+                    "name": "BorinicAcid",
+                    "children": []
+                },
+                {
+                    "name": "BoronicAcid",
+                    "children": []
+                },
+                {
+                    "name": "BorinicEster",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "GroupsContainingPhosphorus",
+            "children": [
+                {
+                    "name": "Phosphodiester",
+                    "children": []
+                },
+                {
+                    "name": "PhosphonicAcid",
+                    "children": []
+                },
+                {
+                    "name": "Phosphate",
+                    "children": []
+                },
+                {
+                    "name": "Phosphine",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "GroupsContainingSulfur",
+            "children": [
+                {
+                    "name": "DithiocarboxylicAcidEster",
+                    "children": []
+                },
+                {
+                    "name": "Thiocyanate",
+                    "children": []
+                },
+                {
+                    "name": "Thioketone",
+                    "children": []
+                },
+                {
+                    "name": "ThiocarboxylicAcid",
+                    "children": []
+                },
+                {
+                    "name": "Sulfide",
+                    "children": []
+                },
+                {
+                    "name": "Disulfide",
+                    "children": []
+                },
+                {
+                    "name": "Thiol",
+                    "children": []
+                },
+                {
+                    "name": "Sulfone",
+                    "children": []
+                },
+                {
+                    "name": "Thioester",
+                    "children": []
+                },
+                {
+                    "name": "SulfonicAcid",
+                    "children": []
+                },
+                {
+                    "name": "Sulfoxide",
+                    "children": []
+                },
+                {
+                    "name": "SulfinicAcid",
+                    "children": []
+                },
+                {
+                    "name": "Thial",
+                    "children": []
+                },
+                {
+                    "name": "DithiocarboxylicAcid",
+                    "children": []
+                },
+                {
+                    "name": "SulfonateEster",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

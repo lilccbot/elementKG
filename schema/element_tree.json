@@ -1,0 +1,95 @@
+{
+    "name": "Element",
+    "children": [
+      {
+        "name": "Metalloids"
+      },
+      {
+        "name": "Metals",
+        "children": [
+          {
+            "name": "Actinides"
+          },
+          {
+            "name": "AlkaliMetals"
+          },
+          {
+            "name": "AlkalineEarthMetals"
+          },
+          {
+            "name": "BlackMetals"
+          },
+          {
+            "name": "FerrousMetals"
+          },
+          {
+            "name": "Lanthanides"
+          },
+          {
+            "name": "NonferrousMetals",
+            "children": [
+              {
+                "name": "NobleMetals",
+                "children": [
+                  {
+                    "name": "PlatinumGroupMetals"
+                  }
+                ]
+              },
+              {
+                "name": "NonferrousHeavyMetals"
+              },
+              {
+                "name": "NonferrousLightMetals"
+              },
+              {
+                "name": "RareMetals",
+                "children": [
+                  {
+                    "name": "RareEarthMetals",
+                    "children": [
+                      {
+                        "name": "HeavyRareEarthMetals"
+                      },
+                      {
+                        "name": "LightRareEarthMetals"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "RareLightMetal"
+                  },
+                  {
+                    "name": "RareRadioactiveMetals"
+                  },
+                  {
+                    "name": "RareRefractoryMetals"
+                  },
+                  {
+                    "name": "RareScatteredMetals"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "PostTransitionMetals"
+          },
+          {
+            "name": "TransitionMetals"
+          }
+        ]
+      },
+      {
+        "name": "Nonmetals",
+        "children": [
+          {
+            "name": "NobleGasses"
+          },
+          {
+            "name": "ReactiveNonmetals"
+          }
+        ]
+      }
+    ]
+  }

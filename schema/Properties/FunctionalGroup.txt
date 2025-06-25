@@ -1,0 +1,19 @@
+字段名	类型	单位	描述
+hasName	String	-	官能团名称（如羟基、羧基、醛基等）
+hasStructure	String	-	官能团的结构式（如 -OH、-COOH、-CHO 等）
+hasChemicalProperty	String	-	化学性质（如酸性、碱性、氧化性、还原性等）
+hasReactionType	List of Strings	-	官能团参与的主要化学反应类型（如加成反应、取代反应、氧化还原反应等）
+hasPolarity	Boolean/String	-	极性（极性/非极性）
+hasSolubility	String	-	溶解性（如“易溶于水”、“难溶于非极性溶剂”）
+hasBondType	List of Strings	-	官能团中的主要化学键类型（如单键、双键、三键、氢键等）
+hasHydrogenBonding	Boolean	-	是否能形成氢键（如羟基、氨基可形成氢键）
+hasAcidBaseBehavior	String	-	酸碱性（如“酸性”、“碱性”、“两性”）
+hasMeltingPointEffect	String	-	对化合物熔点的影响（如“显著提高”、“无明显影响”）
+hasBoilingPointEffect	String	-	对化合物沸点的影响（如“显著提高”、“无明显影响”）
+hasDensityEffect	String	-	对化合物密度的影响（如“增加”、“减少”）
+hasHardnessEffect	String	-	对材料硬度的影响（如“增强”、“无影响”）
+hasConductivityEffect	String	-	对导电性的影响（如“增强”、“无影响”）
+hasElectronConfiguration	String	-	官能团中原子的电子排布（如羰基中的 C=O 双键）
+hasDetectionMethod	List of Strings	-	官能团的检测方法（如红外光谱、核磁共振、化学试剂反应等）
+hasBiologicalActivity	String	-	在生物体内的活性（如“亲水性”、“疏水性”、“酶活性调节”）
+hasIndustrialApplication	String	-	工业应用（如药物合成、材料科学、食品添加剂等）

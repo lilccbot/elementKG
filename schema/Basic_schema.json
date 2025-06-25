@@ -1,0 +1,74 @@
+{
+    "entities": [
+        {
+            "entity_type": "元素",
+            "description": "具有相同核电荷数(质子数)的一类原子的总称，构成物质的基本单位，按周期表分为金属、非金属、稀有气体等类别"
+        },
+        {
+            "entity_type": "元素类",
+            "description": "化学元素的分类"
+        },
+        {
+            "entity_type": "官能团",
+            "description": "决定有机物化学性质的特定原子组合，如羟基、羧基等，按所含原子类型分为含氧官能团、含氮官能团等"
+        },
+        {
+            "entity_type": "官能团类",
+            "description": "官能团的分类"
+        },
+        {
+            "entity_type": "分子",
+            "description": "由原子通过化学键结合形成的最小稳定单元，分为无机分子和有机分子"
+        },
+        {
+            "entity_type": "分子类",
+            "description": "分子的分类"
+        },
+        {
+            "entity_type": "反应",
+            "description": "分子破裂成原子，原子重新排列组合生成新分子的过程，具有反应方程式、反应条件和反应现象等属性"
+        },
+        {
+            "entity_type": "反应类",
+            "description": "化学反应的分类，包括宏观分类(化合、分解等)、微观分类(离子、氧化还原等)和有机反应分类(取代、加成等)"
+        }
+    ],
+    "relations": [
+        {
+            "relation_name": "是实例",
+            "head_type": "原素、官能团、分子、反应",
+            "tail_type": "原素类、官能团类、分子类、反应类",
+            "description": "表示一个具体实例是一个类的实例"
+        },
+        {
+            "relation_name": "是子类",
+            "head_type": "原素类、官能团类、分子类、反应类",
+            "tail_type": "原素类、官能团类、分子类、反应类",
+            "description": "表示一个类是另外一个类的子类，两个类必须同为元素类、官能团类、分子类或反应类"
+        },
+        {
+            "relation_name": "包含元素",
+            "head_type": "分子、官能团",
+            "tail_type": "元素",
+            "description": "化学分子或者官能团包含特定的元素"
+        },
+        {
+            "relation_name": "包含官能团",
+            "head_type": "分子",
+            "tail_type": "官能团",
+            "description": "表示具体化学分子包含特定官能团"
+        },
+        {
+            "relation_name": "是反应物",
+            "head_type": "分子",
+            "tail_type": "反应",
+            "description": "表示具体分子参与具体反应"
+        },
+        {
+            "relation_name": "是生成物",
+            "head_type": "分子",
+            "tail_type": "反应",
+            "description": "表示具体分子是具体反应的生成物"
+        }
+    ]
+}

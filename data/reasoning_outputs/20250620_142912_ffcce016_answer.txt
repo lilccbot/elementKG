@@ -1,0 +1,10 @@
+最终回复:
+```json
+{
+    "Head": "环己烷",
+    "Head_type": "分子",
+    "Relation": "是实例",
+    "Tail": "有机分子",
+    "Tail_type": "分子类"
+}
+```

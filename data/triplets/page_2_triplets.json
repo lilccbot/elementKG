@@ -1,0 +1,58 @@
+[
+  {
+    "Head": "硫代甲酰胺",
+    "Head_type": "分子",
+    "Relation": "包含元素",
+    "Tail": "硫",
+    "Tail_type": "元素"
+  },
+  {
+    "Head": "甲酰胺",
+    "Head_type": "分子",
+    "Relation": "包含官能团",
+    "Tail": "酰胺",
+    "Tail_type": "官能团"
+  },
+  {
+    "Head": "氨基甲酸酯",
+    "Head_type": "分子",
+    "Relation": "包含官能团",
+    "Tail": "氨基",
+    "Tail_type": "官能团"
+  },
+  {
+    "Head": "氨基甲酸酯",
+    "Head_type": "分子",
+    "Relation": "包含官能团",
+    "Tail": "酯基",
+    "Tail_type": "官能团"
+  },
+  {
+    "Head": "氯代环己烷",
+    "Head_type": "分子",
+    "Relation": "包含元素",
+    "Tail": "氯",
+    "Tail_type": "元素"
+  },
+  {
+    "Head": "三氟代甲氧基环己烷",
+    "Head_type": "分子",
+    "Relation": "包含元素",
+    "Tail": "氟",
+    "Tail_type": "元素"
+  },
+  {
+    "Head": "1,2-二酰基苯",
+    "Head_type": "分子",
+    "Relation": "包含官能团",
+    "Tail": "酰基",
+    "Tail_type": "官能团"
+  },
+  {
+    "Head": "1,2-二酰基苯",
+    "Head_type": "分子",
+    "Relation": "包含官能团",
+    "Tail": "羰基",
+    "Tail_type": "官能团"
+  }
+]

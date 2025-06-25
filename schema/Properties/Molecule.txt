@@ -1,0 +1,29 @@
+字段名	类型	单位	描述
+hasName	String	-	分子名称（如水、乙醇、葡萄糖）
+hasFormula	String	-	分子式（如 H₂O、C₂H₅OH、C₆H₁₂O₆）
+hasMolecularWeight	Float	g/mol	分子量（由原子量总和计算）
+hasStructure	String	-	分子结构式（如 SMILES、InChI 或化学式）
+hasPolarity	Boolean/String	-	极性（极性/非极性）
+hasHydrogenBonding	Boolean	-	是否能形成氢键（如醇羟基、氨基可形成氢键）
+hasSolubility	String	-	溶解性（如“易溶于水”、“难溶于有机溶剂”）
+hasMeltingPoint	Float	°C	熔点（分子间作用力越强，熔点越高）
+hasBoilingPoint	Float	°C	沸点（氢键和范德华力影响显著）
+hasDensity	Float	g/cm³	密度（通常液体或固体分子密度较高）
+hasVaporPressure	Float	kPa	蒸汽压（反映挥发性，低沸点分子蒸汽压高）
+hasViscosity	Float	Pa·s	粘度（极性分子或大分子通常粘度较高）
+hasReactivity	String	-	反应性（如“易氧化”、“易聚合”、“惰性”）
+hasStability	String	-	稳定性（如“热稳定性差”、“光敏性”、“耐酸碱”）
+hasBondTypes	List of Strings	-	分子内的主要化学键类型（如单键、双键、三键、离子键）
+hasMolecularGeometry	String	-	分子几何形状（如线性、角形、四面体、平面三角形）
+hasElectronConfiguration	String	-	分子中原子的电子排布（如 O₂ 分子的 π 键电子分布）
+hasOpticalActivity	Boolean	-	是否具有光学活性（如含手性中心的分子）
+hasIsomerism	List of Strings	-	异构类型（如结构异构、几何异构、对映异构）
+hasLipinskiRuleCompliance	Boolean/String	-	是否符合 Lipinski 类药性规则（如 HBD ≤ 5、HBA ≤ 10、MW ≤ 500）
+hasSyntheticAccessibility	Float	-	合成可及性（SA Score，值越低越易合成）
+hasDruglikeness	Float	-	类药性（QED 值，0-1 范围，值越高越接近药物分子）
+hasLogP	Float	-	脂水分配系数（反映疏水性，LogP > 5 可能降低口服生物利用度）
+hasToxicity	String	-	毒性（如“低毒性”、“高致畸性”、“环境危害性”）
+hasBiologicalActivity	String	-	生物活性（如“抗氧化”、“抗菌”、“酶抑制”）
+hasIndustrialApplication	String	-	工业应用（如“溶剂”、“燃料”、“医药中间体”）
+hasDetectionMethod	List of Strings	-	检测方法（如红外光谱、核磁共振、质谱、色谱分析）
+hasThermodynamicProperties	String	-	热力学性质（如标准生成焓、熵、自由能变化）

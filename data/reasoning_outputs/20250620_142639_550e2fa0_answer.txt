@@ -1,0 +1,10 @@
+最终回复:
+```json
+{
+    "Head": "2-氟乙醇",
+    "Head_type": "分子",
+    "Relation": "包含元素",
+    "Tail": "氟",
+    "Tail_type": "元素"
+}
+```
